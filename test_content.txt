@@ -1,0 +1,3 @@
+Dear {fname} {lname}, 
+
+Merry Christmas.
